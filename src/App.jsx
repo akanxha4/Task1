@@ -17,7 +17,7 @@ const App = () => {
     console.log('submitted');
     setAllUsers(newArr);
     console.log(newArr);
-  }
+  }``
 
   const copyUsers = [...allUsers]
 
